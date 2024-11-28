@@ -14,10 +14,10 @@ This repository contains the training and testing of the proposed framework in p
 
 ## Note
 This reposity will be updated soon, including:
-- [] Uploading the **[Preprocessed Data](#dataset-preparation)** of dataset.
+- [x] Uploading the **[Preprocessed Data](#dataset-preparation)** of dataset.
 - [] Uploading the **Raw Data** of IAAD.
 - [] Uploading the **Visualization Codes** of raw data and results.
-- [] Updating the **Experiment Codes** to make it easier to get up with.
+- [x] Updating the **Experiment Codes** to make it easier to get up with.
 - [x] Uploading the **[Conda Environments](#1-installation-as-conda)** of ADAPT++.
 
 
@@ -61,6 +61,11 @@ pip install -r requirements.txt
 ## Dataset Preparation
 
 You can ether download the preprocessed data in [this site](https://www.alipan.com/s/PYmo89r86RJ), or just download the raw videos and car information in [this site](), and preprocess it with the code in `src/prepro`.
+```
+sh src/prepro pre.sh
+sh src/prepro test.sh
+sh src/prepro ttt.sh
+```
 
 
 
