@@ -58,6 +58,12 @@ pip install mpi4py
 pip install -r requirements.txt
 ```
 
+## Dataset Preparation
+
+You can ether download the preprocessed data in [this site](https://www.alipan.com/s/PYmo89r86RJ), or just download the raw videos and car information in [this site](), and preprocess it with the code in `src/prepro`.
+
+
+
 ## Models
 
 * We release our best performing checkpoints. You can download these models at [ [Baidu](https://pan.baidu.com/s/1Wp5ZxWImj5kQh8dO-vrdbw?pwd=ip9m 
