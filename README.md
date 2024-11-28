@@ -63,7 +63,10 @@ pip install -r requirements.txt
 * We release our best performing checkpoints. You can download these models at [ [Baidu](https://pan.baidu.com/s/1Wp5ZxWImj5kQh8dO-vrdbw?pwd=ip9m 
 ) ] and place them under `checkpoints` directory. If the directory does not exist, you can create one.
 
-
+## Training
+```bash
+sh scripts/train.sh
+```
 
 ## Acknowledgments
 
