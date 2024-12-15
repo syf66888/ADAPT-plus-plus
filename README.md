@@ -1,6 +1,6 @@
 # ADAPT++
 
- <img src="fig3.png" width="650"> 
+ <img src="framework.png" width="650"> 
 
 This repository is an official implementation of ADAPT++
 
