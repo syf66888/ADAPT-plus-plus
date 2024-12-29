@@ -15,7 +15,7 @@ This repository contains the training and testing of the proposed framework in p
 ## Note
 This reposity will be updated soon, including:
 - [x] Uploading the **[Preprocessed Data](#dataset-preparation)** of dataset.
-- [] Uploading the **Raw Data** of IAAD.
+- [x] Uploading the **Raw Data** of IAAD.
 - [] Uploading the **Visualization Codes** of raw data and results.
 - [x] Updating the **Experiment Codes** to make it easier to get up with.
 - [x] Uploading the **[Conda Environments](#1-installation-as-conda)** of ADAPT++.
