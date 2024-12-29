@@ -74,10 +74,20 @@ sh src/prepro ttt.sh
 * We release our best performing checkpoints. You can download these models at [ [Baidu](https://pan.baidu.com/s/1Wp5ZxWImj5kQh8dO-vrdbw?pwd=ip9m 
 ) ] and place them under `checkpoints` directory. If the directory does not exist, you can create one.
 
+* You' also need to download the pre-trained multimodal bert and Video Swin Transformer models.You can download these models at [ [Baidu](https://pan.baidu.com/s/1FwLrgyDUp_xN3vquFutqhg?pwd=uixf
+) ] 
+
 ## Training
 ```bash
 sh scripts/train.sh
 ```
+
+
+## Evaluate turn accuracy
+```python
+python turn_acc.py
+```
+
 
 ## Acknowledgments
 
